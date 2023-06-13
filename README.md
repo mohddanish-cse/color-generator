@@ -1,3 +1,4 @@
-#### Values JS
+#### Color Generator
 
-[values.js](https://github.com/noeldelgado/values.js)
+
+It uses - [values.js](https://github.com/noeldelgado/values.js)
